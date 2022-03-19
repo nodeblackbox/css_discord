@@ -30,10 +30,10 @@
   .theme-dark {
     --header-primary: #fff;
     --header-secondary: #bbb;
-    --text-normal: #fff;
-    --text-default: #ddd;
-    --text-muted: #aaa;
-    --text-link: #00b0f4;
+    --text-normal: rgb(22, 21, 21);
+    --text-default: rgb(24, 24, 24);
+    --text-muted: rgb(20, 20, 20);
+    --text-link: #111111;
     --channels-default: #ddd;
     --interactive-normal: #bbb;
     --interactive-hover: #eee;
