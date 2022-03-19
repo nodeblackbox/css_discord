@@ -34,11 +34,11 @@
     --text-default: rgb(24, 24, 24);
     --text-muted: rgb(20, 20, 20);
     --text-link: #111111;
-    --channels-default: #ddd;
-    --interactive-normal: #bbb;
-    --interactive-hover: #eee;
-    --interactive-active: #fff;
-    --interactive-muted: #777;
+    --channels-default: rgb(34, 34, 34);
+    --interactive-normal: rgb(22, 22, 22);
+    --interactive-hover: rgb(20, 20, 20);
+    --interactive-active: rgb(22, 22, 22);
+    --interactive-muted: rgb(0, 0, 0);
     --background-primary: transparent;
     --background-secondary: rgba(0,0,0,0.3);
     --background-secondary-alt: transparent;
@@ -58,7 +58,7 @@
     --elevation-low: 0 1px 0 rgba(4,4,5,0.2),0 1.5px 0 rgba(6,6,7,0.05),0 2px 0 rgba(4,4,5,0.05);
     --elevation-medium: 0 4px 4px rgba(0,0,0,0.16);
     --elevation-high: 0 8px 16px rgba(0,0,0,0.24);
-    --logo-primary: #fff;
+    --logo-primary: rgb(8, 8, 8);
     --guild-header-text-shadow: 0 1px 1px rgba(0,0,0,0.4);
     --channeltextarea-background: rgba(255,255,255,0.05);
     --activity-card-background: #202225;
@@ -72,7 +72,7 @@
     --deprecated-text-input-border: rgba(0,0,0,0.3);
     --deprecated-text-input-border-hover: #040405;
     --deprecated-text-input-border-disabled: #202225;
-    --deprecated-text-input-prefix: #dcddde;
+    --deprecated-text-input-prefix: #131313;
     --text-link: var(--link-colour);
   }
   
